@@ -15,6 +15,7 @@ python app.py
 Requires Python 3.10+ and Flask (`pip install -r requirements.txt`).
 
 ## Try it
+## Brandi's local set up is working!
 
 ```
 curl http://127.0.0.1:5000/recipes
